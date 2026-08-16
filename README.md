@@ -4,8 +4,9 @@ Exploratory Data Analysis on Anthropic's real-world
 Claude.ai usage dataset (1,636,573 rows × 10 columns).
 
 ## Dataset
-Source: Hugging Face — Anthropic/EconomicIndex  
-Release: June 2026 | License: MIT
+**Source:** [Anthropic Economic Index — Hugging Face](https://huggingface.co/datasets/Anthropic/EconomicIndex)
+**Release:** June 2026 | **License:** MIT
+**Paper:** arxiv:2503.04761
 
 ## Key Findings
 - Education & Learning dominates global Claude usage
